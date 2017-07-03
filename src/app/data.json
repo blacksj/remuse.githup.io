@@ -35,11 +35,11 @@
     },
     "footer": {},
     "default": {
-      "quote": "生活是一种绵延不绝的渴望，渴望不断上升，变得更伟大而高贵。",
+      "quote": "不需要无所不知,但需要无所不能。",
       "desList": [
         "我叫施剑",
         "一名商务BD,市场运营",
-        "还是一名伪前端研发工程师",
+        "还是一名前端研发工程师",
         "blacksj@foxmail.com"
       ]
     },
@@ -69,9 +69,10 @@
       ],
       "desList": [
         "六年互联网市场运营经验,两年半全职前端开发经验",
+        "崇尚极客精神",
         "熟悉前端框架开发,深谙自动化,模块化开发之道",
         "高效的自学能力,具备独立分析解决问题能力",
-        "强烈的自我驱动力,代码强迫症患者"
+        "强烈的自我驱动力,完美主义强迫症"
       ]
     },
     "skill": {
@@ -165,22 +166,23 @@
       "title": "经历",
       "expList": [
         {
-          "title": "兰途网络科技有限公司",
+          "title": "北京一九易站电子商务有限公司(19e)",
           "time": "2015年6月~至今",
-          "post": "web前端研发工程师",
+          "post": "品牌宣传部  部门经理",
           "imgUrl": "img/e_js.svg",
-          "tech": "less gulp angular1.x cordova 原生js及若干类库",
+          "tech": "less gulp vue2.0 webpack 原生js及若干类库",
           "contentList": [
             "负责快速构建高质量移动APP/PC/微信页面",
-            "根据业务需求设计合适的工程项目",
+            "根据业务需求设计合适的工程项目/运营流程",
+            "根据不同合作场景设计制作不同的可行性的技术流程",
             "高度组件化、模块化思维，拥有各平台调试能力",
-            "同期学习ES6及vue,react,ng2,体会函数式编程思想"
+            "同期学习ES6及vue,sem,微信小程序,体会函数式编程思想"
           ]
         },
         {
-          "title": "卓煌企业管理有限公司",
+          "title": "SOHO中国",
           "time": "2014年8月~2015年6月",
-          "post": "网页开发兼SEO优化",
+          "post": "市场部  部门经理",
           "imgUrl": "img/e_html.svg",
           "tech": "html5,css3,javascript,jquery,bootstrap等",
           "contentList": [
@@ -191,7 +193,7 @@
           ]
         },
         {
-          "title": "壹零陆文化传播有限责任公司",
+          "title": "北京启思睿科技有限公司",
           "time": "2014年3月~2014年8月",
           "post": "SEO",
           "imgUrl": "img/e_seo.svg",
@@ -291,10 +293,11 @@
     },
     "footer": {},
     "default": {
-      "quote": "Life is a kind of endless yearning, eager to continue to rise, become more great and noble.",
+      "quote": "There is no need to know everything,but to do everything.",
       "desList": [
         "I am Jay Black",
-        "A front-end R & D engineer",
+        "A BD, market operations",
+        "and a front-end R & D engineer",
         "blacksj@foxmail.com"
       ]
     },
@@ -323,8 +326,9 @@
         }
       ],
       "desList": [
-        "Three years of Internet experience, two and a half years full-time front-end development experience",
-        "Familiar with MV * development, well versed in automation, modular development of the road",
+        "Six years of Internet market operation experience, two and a half years full-time front-end development experience",
+        "Advocating geek spirit",
+        "Familiar with front-end framework development, well versed in automation, modular development of the road",
         "Efficient self-learning ability, with independent analysis to solve problems",
         "Strong self-driving force, the code OCD"
       ]
@@ -338,7 +342,7 @@
         },
         {
           "color": "rgba(49,65,82,0.8)",
-          "name": "angular"
+          "name": "mina"
         },
         {
           "color": "rgba(76,157,160,0.8)",
@@ -358,11 +362,11 @@
         },
         {
           "color": "rgba(71,83,94,0.8)",
-          "name": "cordova"
+          "name": "express"
         },
         {
           "color": "rgba(147,147,189,0.8)",
-          "name": "react"
+          "name": "sass"
         }
       ],
       "innerCircleList": [
@@ -376,15 +380,15 @@
         },
         {
           "color": "rgba(238,215,163,0.8)",
-          "name": "ng2"
+          "name": "seo"
         },
         {
           "color": "rgba(207,184,178,0.8)",
-          "name": "fp"
+          "name": "react"
         }
       ],
       "desList": [
-        "Skilled use of angularJs1.x and encapsulate all kinds of libraries",
+        "Skilled use of Vuejs1.x and encapsulate all kinds of libraries",
         "Permanent PC / APP / WeChat three platform front-end research and development",
         "Good at component / plugin development, can be written out of the library to write JS code",
         "Coding thinking robustness/scalability/maintainability"
